@@ -1,0 +1,456 @@
+{
+  "method": "LSTM (Deep Learning)",
+  "hotspot_points": [
+    {
+      "lat": -2.5,
+      "lon": 121.0,
+      "count": 309,
+      "historical_count": 1838,
+      "mag": 2.6166085224727964,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -3.5,
+      "lon": 128.5,
+      "count": 153,
+      "historical_count": 1305,
+      "mag": 2.8307195016796936,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -2.0,
+      "lon": 120.5,
+      "count": 113,
+      "historical_count": 663,
+      "mag": 2.7252099746651584,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -2.0,
+      "lon": 122.5,
+      "count": 112,
+      "historical_count": 717,
+      "mag": 3.3413302420083677,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -1.5,
+      "lon": 120.5,
+      "count": 111,
+      "historical_count": 1129,
+      "mag": 2.9278156340752877,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 1.5,
+      "lon": 126.5,
+      "count": 111,
+      "historical_count": 1181,
+      "mag": 3.800350956172735,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 116.5,
+      "count": 105,
+      "historical_count": 897,
+      "mag": 2.9229108475518393,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 116.0,
+      "count": 89,
+      "historical_count": 829,
+      "mag": 2.8867648418636915,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 0.0,
+      "lon": 123.0,
+      "count": 88,
+      "historical_count": 1655,
+      "mag": 3.1965090177226583,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -3.0,
+      "lon": 119.5,
+      "count": 83,
+      "historical_count": 1003,
+      "mag": 2.87773522042672,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 115.5,
+      "count": 82,
+      "historical_count": 582,
+      "mag": 2.8497376158213057,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 0.5,
+      "lon": 125.0,
+      "count": 82,
+      "historical_count": 446,
+      "mag": 3.4182766834327354,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 0.5,
+      "lon": 122.0,
+      "count": 81,
+      "historical_count": 1138,
+      "mag": 2.871381304665202,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 117.0,
+      "count": 75,
+      "historical_count": 643,
+      "mag": 3.091619761216174,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -1.0,
+      "lon": 120.5,
+      "count": 69,
+      "historical_count": 631,
+      "mag": 3.240418154521395,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -2.5,
+      "lon": 140.5,
+      "count": 65,
+      "historical_count": 753,
+      "mag": 3.139437696126162,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -1.5,
+      "lon": 120.0,
+      "count": 64,
+      "historical_count": 963,
+      "mag": 3.1006519912845274,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -10.0,
+      "lon": 119.0,
+      "count": 63,
+      "historical_count": 690,
+      "mag": 3.4307089138710145,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.0,
+      "lon": 124.0,
+      "count": 62,
+      "historical_count": 799,
+      "mag": 3.238526712209011,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -7.0,
+      "lon": 107.0,
+      "count": 61,
+      "historical_count": 700,
+      "mag": 2.4291609360142856,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.0,
+      "lon": 116.5,
+      "count": 57,
+      "historical_count": 416,
+      "mag": 2.7047852128052883,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 2.0,
+      "lon": 126.5,
+      "count": 57,
+      "historical_count": 661,
+      "mag": 3.90520204508472,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -1.0,
+      "lon": 120.0,
+      "count": 56,
+      "historical_count": 697,
+      "mag": 3.1715103410487804,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 117.5,
+      "count": 55,
+      "historical_count": 627,
+      "mag": 3.1365844078165868,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -2.5,
+      "lon": 138.5,
+      "count": 55,
+      "historical_count": 357,
+      "mag": 3.9405502866106437,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.5,
+      "lon": 119.0,
+      "count": 54,
+      "historical_count": 577,
+      "mag": 3.258932340960139,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 118.5,
+      "count": 54,
+      "historical_count": 761,
+      "mag": 3.2305454205584754,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 118.5,
+      "count": 53,
+      "historical_count": 575,
+      "mag": 3.176518168572174,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 120.5,
+      "count": 53,
+      "historical_count": 493,
+      "mag": 3.2744115567363083,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 0.0,
+      "lon": 123.5,
+      "count": 53,
+      "historical_count": 798,
+      "mag": 3.595295671275689,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 107.5,
+      "count": 51,
+      "historical_count": 680,
+      "mag": 3.4695715243676473,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 2.5,
+      "lon": 127.0,
+      "count": 50,
+      "historical_count": 493,
+      "mag": 3.924165687713996,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 118.0,
+      "count": 49,
+      "historical_count": 574,
+      "mag": 3.09911957378223,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 2.0,
+      "lon": 99.0,
+      "count": 48,
+      "historical_count": 557,
+      "mag": 3.1830733382136445,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -0.5,
+      "lon": 123.0,
+      "count": 47,
+      "historical_count": 718,
+      "mag": 3.271856846416435,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 3.0,
+      "lon": 127.0,
+      "count": 45,
+      "historical_count": 431,
+      "mag": 3.9968872994640368,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -2.5,
+      "lon": 121.5,
+      "count": 44,
+      "historical_count": 438,
+      "mag": 3.2304228163379,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 5.0,
+      "lon": 96.0,
+      "count": 44,
+      "historical_count": 561,
+      "mag": 3.1876193130855617,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -3.0,
+      "lon": 129.5,
+      "count": 41,
+      "historical_count": 472,
+      "mag": 3.4164459870190678,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 1.5,
+      "lon": 127.0,
+      "count": 41,
+      "historical_count": 596,
+      "mag": 3.7251790488825502,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.5,
+      "lon": 119.5,
+      "count": 40,
+      "historical_count": 446,
+      "mag": 3.292625285367713,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 107.0,
+      "count": 40,
+      "historical_count": 557,
+      "mag": 3.4632781493698386,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.0,
+      "lon": 110.5,
+      "count": 39,
+      "historical_count": 461,
+      "mag": 3.5183048053123644,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -8.0,
+      "lon": 116.5,
+      "count": 37,
+      "historical_count": 313,
+      "mag": 3.237372563332268,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 0.5,
+      "lon": 122.5,
+      "count": 37,
+      "historical_count": 556,
+      "mag": 2.8458992206456837,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -3.0,
+      "lon": 128.0,
+      "count": 35,
+      "historical_count": 524,
+      "mag": 3.3032819779103053,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -3.0,
+      "lon": 130.0,
+      "count": 35,
+      "historical_count": 462,
+      "mag": 3.5441160607683977,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": 4.5,
+      "lon": 96.5,
+      "count": 35,
+      "historical_count": 454,
+      "mag": 3.177147727995595,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.5,
+      "lon": 119.5,
+      "count": 34,
+      "historical_count": 361,
+      "mag": 3.217609570700831,
+      "year": 2026,
+      "month": null
+    },
+    {
+      "lat": -9.0,
+      "lon": 119.0,
+      "count": 34,
+      "historical_count": 389,
+      "mag": 3.1491313636658096,
+      "year": 2026,
+      "month": null
+    }
+  ],
+  "timestamp": "2025-12-14T14:10:30.572446"
+}
